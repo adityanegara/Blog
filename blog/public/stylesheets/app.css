@@ -1,0 +1,53 @@
+i.icon {
+    padding-right: 20px;
+    padding-top: 1px;
+}
+body{
+    color: white;
+    background-color: #222326;
+}
+.container.main{
+    margin-top: 7.0em;
+}
+
+span {
+    color: black;
+}
+.ui.header {
+   
+    color: white;
+}
+.word{
+    color: black;
+}
+.ui.huge.header {
+    min-height: 1em;
+    font-size: 2em;
+    color: black;
+}
+
+#titleShow{
+    color: white;
+}
+
+#delete{
+    display: inline;
+}
+
+#app_name{
+    text-align: center;
+    color: white;
+}
+
+#edit_button{
+   margin-top: 20px;
+}
+
+#delete_button{
+    margin-top: 20px;
+}
+
+#title_show{
+    text-align: center;
+    color: white;
+}
